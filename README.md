@@ -1,0 +1,2 @@
+# deprem
+son dakika
